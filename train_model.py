@@ -10,8 +10,8 @@ import matplotlib.pyplot as plt
 # Define the main function
 def main():
     # Define source and destination paths
-    source_path = "C:/THY_Database/Main_ADU/AIRE410/MVI/data"
-    dest_path = "C:/THY_Database/Main_ADU/AIRE410/MVI/results"
+    source_path = "data"
+    dest_path = "results"
     print("Chosen the paths")
 
     # Hyperparameters
