@@ -1,11 +1,10 @@
 # Aquatic Defect Detection (EfficientNet-B2, PyTorch)
-
+---
 This repository contains a modular PyTorch pipeline to detect and classify aquatic defects (biofouling, holes, vegetation) from underwater imagery using **EfficientNet-B2**.
 It's worth noting that it's easy to change the model choice to any existing state-of-the-art image classification models.
----
 
 ## Tournament Achievement
-This code was submitted to the **[Machine Vision Innovation Tournament](https://taimurhassan.github.io/mvi_icip/)**, held as part of the **IEEE's International Conference of Image Processing (ICIP)**, where it won **2nd Place**.
+This code was submitted to the **[Machine Vision Innovation Tournament](https://taimurhassan.github.io/mvi_icip/)**, held as part of the **IEEE's International Conference of Image Processing (ICIP)** in 2024, where it won **2nd Place**.
 
 ## File Overview
 
